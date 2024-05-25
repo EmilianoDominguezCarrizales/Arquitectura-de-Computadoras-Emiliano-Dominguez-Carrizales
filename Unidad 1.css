@@ -1,0 +1,62 @@
+body{
+    background-image: url(NuevoFondo.jpg);
+    background-repeat: repeat;
+    background: size 100px;
+}
+
+h1{
+
+    color:slateblue;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+
+h3{
+    color:slateblue;
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+h4{
+    color:slateblue;
+}
+h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p{
+    color:aliceblue
+}
+p{
+    font-family: Arial, sans-serif;
+}
+
+li{
+    color:aliceblue
+}
+li{
+    font-family: Arial, sans-serif;
+}
+
+h5{
+    color:slateblue;
+}
+h5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
